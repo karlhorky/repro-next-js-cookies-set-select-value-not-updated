@@ -2,7 +2,7 @@
 
 Reproduction for the open bug in React:
 
-- https://github.com/react/react/issues/31695
+- https://github.com/react/react/issues/30580
 
 Confusing behavior that prevents updates to `<select>` values when `cookies().set()` runs:
 
